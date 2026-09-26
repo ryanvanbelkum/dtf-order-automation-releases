@@ -1,5 +1,5 @@
 {
-  "version": "0.0.16",
-  "download_url": "https://github.com/ryanvanbelkum/dtf-order-automation-releases/releases/download/v0.0.16/DTF.Setup.exe",
-  "release_notes": "analytics, save sizing, and search"
+  "version": "0.0.17",
+  "download_url": "https://github.com/ryanvanbelkum/dtf-order-automation-releases/releases/download/v0.0.17/DTF.Setup.exe",
+  "release_notes": "Map more than one design file to a product (front, back, sleeves, neck label, pocket) with the + button on the Mapping tab. Set the print width and height for each file; empty boxes use a default size for that placement. Each file is sent to CadLink with its own size."
 }
