@@ -1,5 +1,5 @@
 {
-  "version": "0.0.18",
-  "download_url": "https://github.com/ryanvanbelkum/dtf-order-automation-releases/releases/download/v0.0.18/DTF.Setup.exe",
-  "release_notes": "New: license activation in Settings → License, and a free trial of 7 days or 100 orders, whichever comes first. The Orders tab shows how much of your trial or monthly plan you've used. Plans and pricing: dtforderautomation.com/pricing"
+  "version": "0.0.19",
+  "download_url": "https://github.com/ryanvanbelkum/dtf-order-automation-releases/releases/download/v0.0.19/DTF.Setup.exe",
+  "release_notes": "Mapping tab: map design files per placement (Front, Back, sleeves, Neck Label, Pocket, Other) from one expandable row. Rows can be collapsed."
 }
