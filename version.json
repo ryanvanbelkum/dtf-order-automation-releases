@@ -1,5 +1,5 @@
 {
-  "version": "0.0.17",
-  "download_url": "https://github.com/ryanvanbelkum/dtf-order-automation-releases/releases/download/v0.0.17/DTF.Setup.exe",
-  "release_notes": "Map more than one design file to a product (front, back, sleeves, neck label, pocket) with the + button on the Mapping tab. Set the print width and height for each file; empty boxes use a default size for that placement. Each file is sent to CadLink with its own size."
+  "version": "0.0.18",
+  "download_url": "https://github.com/ryanvanbelkum/dtf-order-automation-releases/releases/download/v0.0.18/DTF.Setup.exe",
+  "release_notes": "New: license activation in Settings → License, and a free trial of 7 days or 100 orders, whichever comes first. The Orders tab shows how much of your trial or monthly plan you've used. Plans and pricing: dtforderautomation.com/pricing"
 }
