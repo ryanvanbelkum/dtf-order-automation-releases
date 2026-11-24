@@ -1,5 +1,5 @@
 {
-  "version": "0.0.19",
-  "download_url": "https://github.com/ryanvanbelkum/dtf-order-automation-releases/releases/download/v0.0.19/DTF.Setup.exe",
-  "release_notes": "Mapping tab: map design files per placement (Front, Back, sleeves, Neck Label, Pocket, Other) from one expandable row. Rows can be collapsed."
+  "version": "0.0.20",
+  "download_url": "https://github.com/ryanvanbelkum/dtf-order-automation-releases/releases/download/v0.0.20/DTF.Setup.exe",
+  "release_notes": "Orders tab: orders already sent to CadLink can now be sent again. Use Select Sent to pick a whole batch by send time, for example after CadLink crashes. You are asked to confirm before anything is reprinted."
 }
